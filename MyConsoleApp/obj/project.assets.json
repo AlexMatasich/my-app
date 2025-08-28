@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amata\\my-app\\MyConsoleApp\\MyConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\amata\\OneDrive\\Documents\\Bus App Dev - AU 25\\my-app\\MyConsoleApp\\MyConsoleApp.csproj",
       "projectName": "MyConsoleApp",
-      "projectPath": "C:\\Users\\amata\\my-app\\MyConsoleApp\\MyConsoleApp.csproj",
+      "projectPath": "C:\\Users\\amata\\OneDrive\\Documents\\Bus App Dev - AU 25\\my-app\\MyConsoleApp\\MyConsoleApp.csproj",
       "packagesPath": "C:\\Users\\amata\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amata\\my-app\\MyConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\amata\\OneDrive\\Documents\\Bus App Dev - AU 25\\my-app\\MyConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\amata\\AppData\\Roaming\\NuGet\\NuGet.Config"
