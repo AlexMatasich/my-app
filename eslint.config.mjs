@@ -11,8 +11,9 @@ export default defineConfig([
     languageOptions: { 
       globals: globals.browser 
     },
-  rules: {
-    "no-extra-semi": "error",
-  } },
+    rules: {
+      "no-extra-semi": "error",
+    } 
+  },
   pluginReact.configs.flat.recommended,
 ]);
